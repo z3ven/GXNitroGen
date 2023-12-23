@@ -5,12 +5,17 @@
   <img src="asset.png">
 
   
-  <a href="">Warning</a>
-  <a href="">Installation</a>
-  <a href="">Usage</a>
-  <a href="">Issues</a>
-  <a href="">Notice</a>
-  <a href="">Contribution</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#warning
+">Warning</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#installation
+">Installation</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#usage
+">Usage</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#issues
+">Issues</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#notices
+">Notices</a>
+  <a href="https://github.com/z3ven/GXNitroGen/tree/main#contributing">Contributing</a>
 </div>
 
 
