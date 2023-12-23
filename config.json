@@ -1,0 +1,13 @@
+{
+  "proxies": {
+    "https": "https://example_proxy.org:123456"
+  },
+  "token": "YOUR_TOKEN",
+  "client_id": 12334567,
+  "embed_images": {
+    "error_embed": "https://doc-18-4s-drive-data-export.googleusercontent.com/download/6vd39jl8764m2etfndcme5sb1l6e0pqf/6hbeb25gooij026qg1oenutdmt7212dm/1703335500000/81643899-57ac-4982-84e0-ee67faee20cf/101864839264981865136/ADt3v-PnZZIgT3zBYC5mcJFAiH1S0n6zYXjk0i4e7LDkDFSo08pJ4ds9X-ZSgayARGQfguGKCAq5xk5BQJLGBiA7uqRGr4mHitcnpUYhUVUyS7na6tYBNIfe6T7WOc40cWhBnppZhHSwDoPrtKL4_2rjaTr7PnQ4PrK7z7hOZbicm8twPrpGKvtd96cCBC6hQ7VPWYhOIFumGh_MUBrxxog3y2NBjSBjNwMMzqP2iUWiWBXOp4LleJszpadth0MYJQu1gg6OCpsjmS3jaOMjgrPMM3rNJjCZDNJmdTARpAJsejn3dvob1YyHjl7PPjGOKg8cpf80TPsK?authuser=2&nonce=0a2l4s2pm1ifa&user=101864839264981865136&hash=65opef0mesal31cs18rd5l83bbcl2egh",
+    "embed": "https://drive.usercontent.google.com/download?id=1PIUCgYYdETr5oboNVxocWucap1G3uHyG&export=download&authuser=2&confirm=t&uuid=b15fb180-6937-47fc-ba28-54744de7400d&at=APZUnTWs4jyk-nPBAmRkjtFadY4K:1703338680940"
+  },
+  "help_message": "To generate nitro gifts use /generate command and pass an ammount of how many gift codes do you want.",
+  "activity_message": "Generating nitro"
+}
