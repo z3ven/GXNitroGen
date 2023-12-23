@@ -50,7 +50,7 @@ To install GXNitroGen, follow these steps:
 # Usage
 
 To use GXNitroGen, follow these steps:
-## Creating Discord bo
+## Creating Discord bot
 Create a discord bot in the Discord Developer Portal and obtain the token and client ID.
 ## Editing config
 Now you should edit the `config.json` file. Open it in your favorite code editor.
