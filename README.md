@@ -74,14 +74,27 @@ Your request might be blocked by Opera's servers, so you should use proxies
 ## Addinotal config editing
 You can also edit activity text by setting it in `activity_message`
 And you can edit help_message by setting it in `help_message`
+## Running
+- Run bot using `python GXNitroGen.py`
 
+
+- You will see an invite link in your browser
+
+
+- Invite your bot to the server
+
+
+- Then use `/generate` command and also an amount of nitro codes
+
+
+Boom! You're done!
 # Issues
 ## `discord.errors.LoginFailure: Improper token has been passed.`
 This error is displayed in the terminal. It means that you entered an improper token. Correct it in `config.json`
 ## `Unknown application`
 This is in the browser. You entered the wrong client id.
 ## `nodename nor servname provided, or not known`
-Sadly, your proxy died, or you entered method or URL incorrectly
+Sadly, your proxy died, or you entered a method or URL incorrectly
 
 # Notices
 
